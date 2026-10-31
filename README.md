@@ -5,3 +5,5 @@ Mimics all Facebook reactions
 😂
 
 😢
+
+💟
