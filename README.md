@@ -7,3 +7,5 @@ Mimics all Facebook reactions
 😢
 
 💟
+
+😮
