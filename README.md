@@ -1,1 +1,2 @@
-Mimics all facebpok reactions 
+Mimics all Facebook reactions 
+👍
