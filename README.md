@@ -1,2 +1,5 @@
 Mimics all Facebook reactions 
+
 👍
+
+😂
