@@ -9,3 +9,5 @@ Mimics all Facebook reactions
 💟
 
 😮
+
+😡
